@@ -6,7 +6,7 @@
 }
 
 html,
-css {
+body {
   height: 100%;
 }
 
@@ -15,6 +15,7 @@ body {
   color: white;
   background-color: rgb(54, 77, 204);
   background: linear-gradient(176deg, rgba(54, 77, 2041) 0%, rgba(19, 35, 124, 1) 100%);
+  overflow: hidden;
 }
 
 .profile {
